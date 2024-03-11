@@ -1,0 +1,9 @@
+[web_servers]
+192.168.56.124 #ManagedNode
+192.168.56.127 #CentOS
+
+[db_servers]
+192.168.56.126 #server2
+
+[file_servers]
+192.168.56.125 #server1
